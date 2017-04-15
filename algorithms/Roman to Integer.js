@@ -1,6 +1,6 @@
 // Source : https://oj.leetcode.com/problems/length-of-last-word/
 // Author : yuxinwang
-// Date   : 2017-
+// Date   : 2017-3-21
 
 /*********************************************************************************************
 *
