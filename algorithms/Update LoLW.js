@@ -26,6 +26,7 @@
  * @param {string} s
  * @return {number}
  */
+ 
 var lengthOfLastWord = function(s) {
     var arr = s.match(/\S+/g)||0;
     return arr.pop().length;
